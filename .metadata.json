@@ -1,0 +1,14 @@
+[
+  {
+    "package": "cat2cat",
+    "oncran": true
+  },
+  {
+    "package": "miceFast",
+    "oncran": true
+  },
+  {
+    "package": "pacs",
+    "oncran": true
+  }
+]
