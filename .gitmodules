@@ -3,6 +3,11 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "pacs"]
+	path = pacs
+	url = https://github.com/polkas/pacs
+	shallow = true
+	registered = true
 [submodule "cat2cat"]
 	path = cat2cat
 	url = https://github.com/polkas/cat2cat
@@ -11,10 +16,5 @@
 [submodule "miceFast"]
 	path = miceFast
 	url = https://github.com/polkas/micefast
-	shallow = true
-	registered = true
-[submodule "pacs"]
-	path = pacs
-	url = https://github.com/polkas/pacs
 	shallow = true
 	registered = true
